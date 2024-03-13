@@ -1,0 +1,10 @@
+* {
+  font-family: monospace;
+}
+
+.box {
+  margin: auto;
+  text-align: center;
+  width: 50%;
+  padding: 1rem;
+}
